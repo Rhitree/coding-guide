@@ -1,0 +1,124 @@
+body {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #F5F1FE;
+  text-align: center;
+  margin: 0, auto;
+}
+
+a {
+    text-decoration: none;
+    color: #885DF1;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    font-size: 15px;
+    text-align: right;
+}
+
+li {
+    margin-left: 10px;
+}
+
+ h1 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  color: #272044;
+}
+
+h3 {
+    text-align: left;
+}
+
+img {
+    width: 80%;
+}
+span {
+    color:#885DF1;
+    text-decoration: underline;
+}
+
+button {
+    border-radius: 30px;
+    padding: 10px;
+    background-color: #885DF1;
+    color: white;
+    border: none;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.nav-bar {
+    background-color: white;
+    position: fixed;
+}
+
+.top-bar {
+    background-color: #D5C6FA;
+    padding: 10px;
+}
+
+.nav {
+    display: flex;
+    background-color: white;
+    font-weight: bold;
+    padding: -20px;
+}
+
+col-11 {
+    margin-left: 400px;
+    text-align: right;
+}
+
+.shecodes-logo {
+    margin-left: 60px;
+    margin-top: 10px;
+    height: 50px;
+    width: auto;
+}
+
+.index-content {
+    text-align: center;
+    padding: 30px;
+}
+
+.index-h1 {
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.index-h2 {
+    color: #885DF1;
+}
+
+.index-h3 {
+    text-align: center;
+}
+
+.about {
+    text-align: center;
+    width: auto;
+}
+
+.index-h6 {
+    color: #9B9B9B;
+}
+
+.title {
+    color: #885DF1;
+}
+
+section.content {
+    width: 80%;
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    border: solid 1px black;
+}
