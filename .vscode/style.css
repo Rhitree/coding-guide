@@ -44,8 +44,11 @@ span {
 }
 
 button {
+    margin-left: 15px;
+    padding: 7px;
+    font-size: 13px;
     border-radius: 30px;
-    padding: 10px;
+    padding: 5px;
     background-color: #885DF1;
     color: white;
     border: none;
@@ -61,8 +64,9 @@ button:hover {
 }
 
 .top-bar {
+    font-size: 13px;
     background-color: #D5C6FA;
-    padding: 10px;
+    padding: 5px;
 }
 
 .nav {
@@ -87,11 +91,14 @@ col-11 {
 .index-content {
     text-align: center;
     padding: 30px;
+    max-width: 750px;
+    padding: 0 auto;
+    margin: 0 auto;
 }
 
 .index-h1 {
     font-weight: 800;
-    font-size: 50px;
+    font-size: 35px;
 }
 
 .index-h2 {
